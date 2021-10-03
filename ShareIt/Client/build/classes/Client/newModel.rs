@@ -1,0 +1,2 @@
+Client.newRenderer
+Client.newModel
